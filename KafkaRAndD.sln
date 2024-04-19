@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppThree", "AppThree\AppThr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StatusEngineWPF", "StatusEngineWPF\StatusEngineWPF.csproj", "{E05BD692-0D85-48C5-9F57-8D172A875D54}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatusCommon", "StatusCommon\StatusCommon.csproj", "{75FD8521-313E-4C6F-974D-5322ADFF2FC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E05BD692-0D85-48C5-9F57-8D172A875D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E05BD692-0D85-48C5-9F57-8D172A875D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E05BD692-0D85-48C5-9F57-8D172A875D54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75FD8521-313E-4C6F-974D-5322ADFF2FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75FD8521-313E-4C6F-974D-5322ADFF2FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75FD8521-313E-4C6F-974D-5322ADFF2FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75FD8521-313E-4C6F-974D-5322ADFF2FC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
